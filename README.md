@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?kinokoTakenoko35=anuraghazra&count_private=true&show_icons=true&theme=vue-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kinokoTakenoko35=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Actual text-->
+
 <!--
 **kinokoTakenoko35/kinokoTakenoko35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
