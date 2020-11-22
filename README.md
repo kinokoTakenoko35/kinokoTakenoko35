@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm hiro, a Product Maneger from Japan.
+I'm Nea, a Product Maneger from Japan.
 
 :smile: I’m currently learning JavaScript and React.:seedling:
 
