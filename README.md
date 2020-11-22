@@ -17,13 +17,14 @@ I'm hiro, a Product Maneger from Japan.
 <br />
 <br />
 
+<!-- images -->
+
 <p align="center">
 <img src="https://github.com/kinokoTakenoko35/kinokoTakenoko35/blob/main/images/Blue-among-us.png" width="100">
 <img src="https://github.com/kinokoTakenoko35/kinokoTakenoko35/blob/main/images/Red-among-us.png" width="100">
 <img src="https://github.com/kinokoTakenoko35/kinokoTakenoko35/blob/main/images/Yellow-among-us.png" width="100">
 </p>
 
-<!-- Actual text-->
 
 <!--
 **kinokoTakenoko35/kinokoTakenoko35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
