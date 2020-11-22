@@ -14,6 +14,8 @@ I'm hiro, a Product Maneger from Japan.
 
 <br />
 <br />
+<br />
+<br />
 
 <p align="center">
 <img src="https://github.com/kinokoTakenoko35/kinokoTakenoko35/blob/main/images/Blue-among-us.png" width="100">
