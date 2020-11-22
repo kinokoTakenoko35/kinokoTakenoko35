@@ -20,7 +20,7 @@ I'm hiro, a Product Maneger from Japan.
 <!-- images -->
 
 #
-<p align="center">
+<p align="left">
 <img src="https://github.com/kinokoTakenoko35/kinokoTakenoko35/blob/main/images/Blue-among-us.png" width="100">
 <img src="https://github.com/kinokoTakenoko35/kinokoTakenoko35/blob/main/images/Red-among-us.png" width="100">
 <img src="https://github.com/kinokoTakenoko35/kinokoTakenoko35/blob/main/images/Yellow-among-us.png" width="100">
