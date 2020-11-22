@@ -12,7 +12,9 @@ I'm hiro, a Product Maneger from Japan.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinokoTakenoko35" />
 </a>
 
-<br>
+<br />
+<br />
+
 <p align="center">
 <img src="https://github.com/kinokoTakenoko35/kinokoTakenoko35/blob/main/images/Blue-among-us.png" width="100">
 <img src="https://github.com/kinokoTakenoko35/kinokoTakenoko35/blob/main/images/Red-among-us.png" width="100">
