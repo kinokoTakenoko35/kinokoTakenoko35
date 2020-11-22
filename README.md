@@ -1,4 +1,8 @@
-### Hi there 👋 I'm hiro, a Product Maneger from Japan.
+### Hi there 👋
+
+I'm hiro, a Product Maneger from Japan.
+
+:seedling:, :smile:, :seedling: I’m currently learning JavaScript and React.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kinokoTakenoko35&count_private=true&show_icons=true" />
@@ -8,8 +12,6 @@
 </a>
 
 <!-- Actual text-->
-
-🌱😄🌱 I’m currently learning JavaScript and React.
 
 <!--
 **kinokoTakenoko35/kinokoTakenoko35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
